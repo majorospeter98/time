@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Napi/Heti/havi Nézet nem ment, Bootstrapet használtam + minimális css. Tailwanddel nincs tapasztalatom.
+responsivitásra már nem jutott idő.
